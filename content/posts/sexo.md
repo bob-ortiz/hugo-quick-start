@@ -1,0 +1,14 @@
+---
+title: "El patriarcado del salario"
+date: 2019-01-04T15:59:28-08:00
+---
+
+# El salario como herramienta de opresión
+Lalalal esto es un párrafo de ejemplo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare ante in varius fringilla. Phasellus et hendrerit nisl, id lobortis mi. Cras quis facilisis risus, non porttitor tellus. Aliquam velit dolor, eleifend id cursus id, porttitor ac eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent volutpat feugiat maximus. Pellentesque lobortis felis justo, at placerat eros sollicitudin nec. Fusce bibendum imperdiet venenatis. Sed egestas justo eget facilisis vehicula. In quis leo nisl. Morbi neque nisi, ultrices at sapien nec, fermentum commodo nulla. Suspendisse potenti.
+
+Aliquam id enim et sem posuere pulvinar nec sit amet sem. Sed sollicitudin est nec turpis laoreet hendrerit. Sed tortor quam, viverra ut consequat sit amet, sollicitudin eget sem. Curabitur a sodales leo. Vivamus posuere nec odio vitae blandit. Nullam nec aliquet urna, et finibus erat. Sed at quam auctor, lobortis velit at, malesuada massa. Morbi dui mi, faucibus vel maximus eu, posuere sed justo. Nulla vulputate, dui vel finibus placerat, augue enim malesuada quam, a luctus magna est in dui. Ut elit mi, venenatis eu sem vitae, tincidunt cursus ipsum. Sed rhoncus ullamcorper dui, nec sagittis enim suscipit a. Phasellus et ornare tellus. Aliquam ornare faucibus ultrices. Mauris dapibus ante ac odio malesuada, at pharetra ex egestas.
+## ¿Y el ingreso básico?
+Aenean enim nisi, suscipit sit amet convallis quis, pulvinar at eros. Nunc lacinia, sem eu luctus molestie, lectus tortor rutrum nibh, id sodales odio dolor sed tortor. Phasellus odio augue, ornare vitae lectus id, convallis consectetur lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam sollicitudin non dui ut pharetra. Etiam quis eros ac lectus sodales lacinia id sit amet ligula. Morbi ultricies pulvinar orci, eget venenatis est finibus sit amet. Vestibulum hendrerit, leo sit amet pretium maximus, nunc felis fringilla nunc, at condimentum odio elit eu urna.
+
+# Limitaciones
+Vestibulum ac malesuada dolor. Aenean fringilla vulputate sapien, eu auctor lacus faucibus sed. Vivamus arcu turpis, pharetra eu lobortis non, consequat sed sem. In condimentum ipsum quis mauris rhoncus, eu ultricies magna ullamcorper. Pellentesque erat tellus, molestie eu facilisis id, consectetur non lectus. Sed cursus mauris ultricies nibh rhoncus, at hendrerit augue porttitor. Duis eget ipsum eget neque volutpat malesuada at et tellus. Sed eget ornare turpis. Morbi a rutrum mauris. Sed ac dolor imperdiet, varius odio a, mollis turpis. Curabitur at arcu rutrum, mollis turpis et, interdum urna. Integer ac pulvinar felis. Sed suscipit sagittis feugiat. Morbi aliquet blandit odio dignissim egestas.
