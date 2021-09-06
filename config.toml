@@ -1,4 +1,5 @@
 baseURL = "https://hugo.onrender.com"
 languageCode = "en-us"
 title = "bareta viva"
-theme = "hello-friend"
+theme = "toha"
+
